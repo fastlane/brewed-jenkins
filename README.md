@@ -1,6 +1,16 @@
 # Brewed Jenkins :beer: 
 
-You installed Jenkins using `homebrew`, and still want it to properly auto start in the context of the main user for easier code signing and Keychain Access? Introducing `Brewed Jenkins`.
+When you install Jenkins via `homebrew`, there is no way to auto-start it after the Mac booted and still have access to the standard Keychain.
+
+You still want Jenkins to run as a standard user process to have permissions to the Keychain and code signing and easier ways to debug problems.
+
+Introducing `Brewed Jenkins`
+
+### How does it work?
+
+You download a Jenkins app, which does nothing else, but launch the `jenkins` process. Since it is an app, the Mac will launch it as the standard user.
+
+### Getting started
 
 First, install Jenkins using `brew install jenkins`
 
