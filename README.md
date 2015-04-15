@@ -19,7 +19,7 @@ First, install Jenkins using `brew install jenkins`
 
 To enable auto start for Jenkins, follow this guide:
 
-- Download [Jenkins App](https://github.com/fastlane/jenkins-app/releases/download/1.0/Jenkins.zip) and extract it somewhere save on your Mac and follow these steps:
+- Download [Brewed Jenkins](https://github.com/fastlane/jenkins-app/releases/download/1.0/Jenkins.zip) and extract it somewhere save on your Mac and follow these steps:
 - Open System Preferences
 - Open `Users & Groups`
 - Switch to `Login Items`
