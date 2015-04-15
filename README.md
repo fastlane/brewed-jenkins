@@ -11,5 +11,5 @@ Just copy [this file] somewhere on your Mac and follow these steps:
 
 Celebrate 🎉
 
-[Users & Groups](screenshots/users.png)
-[Select Jenkins](screenshots/filechooser.png)
+![Users & Groups](screenshots/users.png)
+![Select Jenkins](screenshots/filechooser.png)
