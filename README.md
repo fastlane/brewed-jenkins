@@ -1,4 +1,4 @@
-# Brewed Jenkins 🍺
+# Brewed Jenkins :beer: 
 
 You installed Jenkins using `homebrew`, and still want it to properly auto start in the context of the main user for easier code signing and Keychain Access? Introducing `Brewed Jenkins`.
 
@@ -13,7 +13,7 @@ To enable auto start for Jenkins, follow this guide:
 - Click the `+`
 - Choose the Jenkins file you just downloaded
 
-Celebrate 🎉
+Celebrate :tada:
 
 ![Users & Groups](screenshots/users.png)
 ![Select Jenkins](screenshots/filechooser.png)
