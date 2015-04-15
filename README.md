@@ -1,5 +1,8 @@
 # Brewed Jenkins :beer: 
 
+[![Twitter: @KauseFx](https://img.shields.io/badge/contact-@KrauseFx-blue.svg?style=flat)](https://twitter.com/KrauseFx)
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/brewed-jenkins/blob/master/LICENSE)
+
 When you install Jenkins via `homebrew`, there is no way to auto-start it after the Mac booted and still have access to the standard Keychain.
 
 You still want Jenkins to run as a standard user process to have permissions to the Keychain and code signing and easier ways to debug problems.
