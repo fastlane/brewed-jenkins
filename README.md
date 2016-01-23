@@ -31,3 +31,6 @@ Celebrate :tada:
 
 ![Users & Groups](screenshots/users.png)
 ![Select Jenkins](screenshots/filechooser.png)
+
+# Code of Conduct
+Help us keep `fastlane` open and inclusive. Please read and follow our [Code of Conduct](https://github.com/fastlane/code-of-conduct).
